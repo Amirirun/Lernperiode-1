@@ -1,16 +1,17 @@
 # Lern-Periode 5
 
-23.4 bis 25.6.2024
+23.4 bis 20.09.24
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+1. Ich möchte ein Schach spiel erstellen, das wie das normale Schach funktionieren soll. Alle Figuren sowie Felder sollen vorhanden sein und die Figuren sollen genau die gleichen Bewegungsabläufe haben wie beim normalen Schach. Mein Ziel ist es das man am Ende zu zweit auf einem Montior zusammen Schach spielen kann. 
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
-
+- [ ] Schachbrett aussuchen und bauern programmieren, Dame und König programmieren
+- [ ] Läufer, Turm und Springer programmieren
+- [ ] Spieler schlägt spieler animation
+- [ ] Endanimation (Mattanimation)
 ## 30.4.2024
 
 - [ ] Erstes Arbeitspaket
