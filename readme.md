@@ -24,9 +24,17 @@ Grob Planung neu: Ich möchte in c sharp ein 2d snake game programmieren in dem 
  - [ ] Mehr über Variablien lernen
  - [ ] Wenn dies dann das lernen
 - [ ] Timer lernen
-- [ ] Einfache Grundbefehle lernen
+
       
-      
+    Heute habe ich mich vorallem mit variablen beschäftigt. Zuerst habe ich einen automatischen Rechnungschreiber programmiert und dann einen Preisrechner für bestimmte Brötchen. Dabei habe ich sehr viel gelernt. Der Preisrechner für die Brötchen war sehr anspruchsvoll jedoch habe ich mit viel aufwand und konzentration dann doc noch die Probleme lösen können.
+
+
+## 013.08.24
+ - [ ] Einfache Grundbefehle lernen (erweitert)
+ - [ ] mich wieder mit Variablen beschäftigen
+- [ ] Rechnung automatisch schreiben lernen
+- [ ] "Programmieren lernen" Tutorial 
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
