@@ -30,10 +30,18 @@ Grob Planung neu: Ich möchte in c sharp ein 2d snake game programmieren in dem 
 
 
 ## 013.08.24
- - [ ] Einfache Grundbefehle lernen (erweitert)
- - [ ] mich wieder mit Variablen beschäftigen
+ - [x ] Einfache Grundbefehle lernen (erweitert)
+ - [x ] mich wieder mit Variablen beschäftigen
 - [ ] Rechnung automatisch schreiben lernen
-- [ ] "Programmieren lernen" Tutorial 
+- [ ] "Programmieren lernen" Tutorial
+
+Heute habe ich an meinem BrötchenRechner weiter gearbeitet und eine Schleife eingebaut. Ich bin gerade noch dabei für alles eine Variable zu finden. Immoment funktioniert mein Programm nicht, da ich mit den Variablen noch nicht fertig bin.
+
+## 020.08.24
+ - [ ] Brötchen Rechner Variablen einfügen
+ - [ ] C# crashkurs angucken (https://www.youtube.com/watch?v=XYPepwDpC7E&list=PL_pqkvxZ6ho0wdObLfg_JhwhrJX5hwLsr)
+ - [ ] Aufgaben aus dem Tutorial bearbeiten
+ - [ ] Neues eigenes Programm schreiben ( weiss noch nicht welches)
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
