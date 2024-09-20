@@ -46,6 +46,12 @@ Heute habe ich an meinem BrötchenRechner weiter gearbeitet und eine Schleife ei
 
 Ich habe mir mitten in der Stunde gedanken gemacht und flappy birds weiter programmiert. ich habe mir viele befehle aus dem Internet rausgesucht und damit ein bisschen herum gebastelt bis das Programm funktioniert hat. 
 
+
+Reflexion: Ich habe in diesem Modul gelernt, wie man eigenständig Codes schreibt sowie Probleme löst. Meine Projekte waren ein Brötchen Rechner und Flappy Birds. Beide Programme zu programmieren hat mir spass gemacht und. Bei Flappy Birds waren vorallem die Bewegungen eine grosse schwierigkeit, jedoch mit ein paar Tutorials dazu konnte ich das Problem lösen.
+
+![image](https://github.com/user-attachments/assets/80e0779d-080d-4dc8-933f-459d5e48511b)
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
