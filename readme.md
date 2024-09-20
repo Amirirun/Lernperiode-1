@@ -38,11 +38,13 @@ Grob Planung neu: Ich möchte in c sharp ein 2d snake game programmieren in dem 
 Heute habe ich an meinem BrötchenRechner weiter gearbeitet und eine Schleife eingebaut. Ich bin gerade noch dabei für alles eine Variable zu finden. Immoment funktioniert mein Programm nicht, da ich mit den Variablen noch nicht fertig bin.
 
 ## 020.08.24
- - [ ] Brötchen Rechner Variablen einfügen
+- [x ]Flappy birds programmieren
  - [ ] C# crashkurs angucken (https://www.youtube.com/watch?v=XYPepwDpC7E&list=PL_pqkvxZ6ho0wdObLfg_JhwhrJX5hwLsr)
  - [ ] Aufgaben aus dem Tutorial bearbeiten
  - [ ] Neues eigenes Programm schreiben ( weiss noch nicht welches)
 
+
+Ich habe mir mitten in der Stunde gedanken gemacht und flappy birds weiter programmiert. ich habe mir viele befehle aus dem Internet rausgesucht und damit ein bisschen herum gebastelt bis das Programm funktioniert hat. 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
