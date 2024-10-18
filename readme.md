@@ -57,7 +57,7 @@ Reflexion: Ich habe in diesem Modul gelernt, wie man eigenständig Codes schreib
 
  - [ ] Mithand von Modul 319 für die Arbeit lernen
  - [ ] Nochmal einen Taschenrechner programmieren
- - [ ] Debugging verstehen
+ - [ ] Debugging Tutorial anschauen
  - [ ] Fehler selbstständig im code finden
 
 
