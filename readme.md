@@ -52,6 +52,17 @@ Reflexion: Ich habe in diesem Modul gelernt, wie man eigenständig Codes schreib
 ![image](https://github.com/user-attachments/assets/80e0779d-080d-4dc8-933f-459d5e48511b)
 
 
+
+## 18.10.2024
+
+ - [ ] Mithand von Modul 319 für die Arbeit lernen
+ - [ ] Nochmal einen Taschenrechner programmieren
+ - [ ] Debugging verstehen
+ - [ ] Fehler selbstständig im code finden
+
+
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
